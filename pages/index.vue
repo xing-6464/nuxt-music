@@ -1,3 +1,3 @@
-<template>
-  <div></div>
-</template>
+<script setup lang="ts">
+useRouter().replace('/recommend')
+</script>
